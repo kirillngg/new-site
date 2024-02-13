@@ -29,4 +29,25 @@ nav{
     font-weight:bold;
     
 }
+.nav-links{
+    display: flex;
+    justify-content: space-evenly;
+    flex-grow: 1;
+}
 
+.nav-links a{
+    text-decoration: none;
+    color: #D1D1D1;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.header-subtitle-text{
+    color:blueviolet;
+    font-size: 13px;
+    font-weight:bold;
+    border-left: 1px solid #8c8c8c;
+    margin-bottom: 13px;
+
+}
