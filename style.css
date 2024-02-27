@@ -127,4 +127,19 @@ nav{
     max-width: 240px;
     line-height: 1.8;
 }
-.about-block
+.audio-block{
+    background-color: #242424;
+    display: flex;
+    margin-top: 60px;
+    width: 540px;
+}
+.audio-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    position: relative;
+    padding: 0 30px;
+}
+
+.audio-de
